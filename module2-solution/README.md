@@ -1,4 +1,4 @@
-Module-2 Peer graded Coding Assignment
+Module-2 Peer-graded Coding Assignment
 
 Coursera course: HTML, CSS, and Javascript for Web Developers
 
