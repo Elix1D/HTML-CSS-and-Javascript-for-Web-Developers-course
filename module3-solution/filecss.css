@@ -6,7 +6,7 @@
 
 .navbar{
 	border-radius: 0px;
-	background-color: rgba(0,0,0,0.9);
+	background-color: rgba(0,0,255,0.9);
 }
 
 .navbar-brand{
@@ -59,14 +59,14 @@ li{
 	padding: 0;
 	margin: 0;
 	width: 100%;
-	background-color: white;
+	background-color: red;
 	border-bottom: 1px solid black;
 	color: black;
 	display: block;
 }
 
 .menu-item:hover{
-	background-color: rgba(0,0,0,0.6);
+	background-color: rgba(255,0,0,0.6);
 	color: rgba(0,0,0,0.1);
 }
 
@@ -81,7 +81,7 @@ li{
 	width: auto;
 	height: auto;
 	color: black;
-	background-color: rgba(0,0,0,0.4);
+	background-color: rgba(0,255,0,0.4);
 	font-family: "Comic Sans MS", cursive, sans-serif;
 	padding: 20px;
 }
